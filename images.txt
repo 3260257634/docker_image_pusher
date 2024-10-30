@@ -1,2 +1,2 @@
 nvidia/cuda:12.2.2-cudnn8-runtime-ubuntu20.04
---platform=linux/arm64 nvidia/cuda@sha256:e791cfbfbebc88119a639d7eb1810a6acb10a8583607b9af72e90e9261f48801
+--platform=linux/amd64 nvidia/cuda@sha256:e791cfbfbebc88119a639d7eb1810a6acb10a8583607b9af72e90e9261f48801
